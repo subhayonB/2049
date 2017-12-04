@@ -1,0 +1,9 @@
+c:\users\binku\documents\visual studio 2015\Projects\2049\2049\bin\Debug\2049.exe.config
+C:\Users\binku\documents\visual studio 2015\Projects\2049\2049\bin\Debug\2049.exe
+C:\Users\binku\documents\visual studio 2015\Projects\2049\2049\bin\Debug\2049.pdb
+C:\Users\binku\documents\visual studio 2015\Projects\2049\2049\obj\Debug\2049.csprojResolveAssemblyReference.cache
+C:\Users\binku\documents\visual studio 2015\Projects\2049\2049\obj\Debug\_2049.Properties.Resources.resources
+C:\Users\binku\documents\visual studio 2015\Projects\2049\2049\obj\Debug\2049.csproj.GenerateResource.Cache
+C:\Users\binku\documents\visual studio 2015\Projects\2049\2049\obj\Debug\2049.exe
+C:\Users\binku\documents\visual studio 2015\Projects\2049\2049\obj\Debug\2049.pdb
+C:\Users\binku\Documents\Visual Studio 2015\Projects\2049\2049\obj\Debug\_2049.Form1.resources
